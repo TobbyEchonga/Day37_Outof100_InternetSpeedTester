@@ -1,5 +1,4 @@
 # Internet Speed tester
-# pip install speedtest-cli
 import speedtest as st
 
 # Set Best Server
